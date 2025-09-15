@@ -20,7 +20,7 @@ Node.js module to interact with the official [Telegram Bot API](https://core.tel
 ## 📦 Install
 
 ```sh
-npm i https://github.com/MrAmHamoham/node-bale-bot-api.git)
+npm i https://github.com/MrAmHamoham/node-bale-bot-api.git
 ```
 
 <br/>
