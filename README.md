@@ -1,6 +1,8 @@
-<h1 align="center">Node.js Telegram Bot API</h1>
+<h1 align="center">Node.js Bale Bot API</h1>
 
 <div align="center">
+
+🔴 This Repo is forked and It was originally made for Telegram 🔴
 
 Node.js module to interact with the official [Telegram Bot API](https://core.telegram.org/bots/api).
 
@@ -18,14 +20,14 @@ Node.js module to interact with the official [Telegram Bot API](https://core.tel
 ## 📦 Install
 
 ```sh
-npm i node-telegram-bot-api
+npm i https://github.com/MrAmHamoham/node-bale-bot-api.git)
 ```
 
 <br/>
 
 > ✍️ **Note:** If you use Typescript you can install this package that contains type definitions for this library
 >```sh
->npm install --save-dev @types/node-telegram-bot-api
+>npm install --save-dev @types/https://github.com/MrAmHamoham/node-bale-bot-api.git
 >```
 
 ## 🚀 Usage
